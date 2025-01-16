@@ -19,7 +19,9 @@ Desenvolvimento Pessoal: Foco na mudança de mentalidade para alto desempenho e 
 Empreendedorismo e Agilidade na Carreira: Temas como empreendedorismo, agilidade empresarial e protagonismo profissional para o desenvolvimento de carreira.
 Back-End + IA: Desenvolvimento em Java e Spring Framework, orientação a objetos e otimização do trabalho de desenvolvimento.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tech Advanced
+
 Oracle Cloud Infrastructure (OCI): Conceitos de computação em nuvem, infraestrutura como código e hospedagem de aplicações.
 
 MySQL: Instalação, configuração e manipulação de bancos de dados MySQL, incluindo criação de tabelas, relacionamentos, consultas e relatórios avançados.
