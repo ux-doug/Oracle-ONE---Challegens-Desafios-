@@ -10,7 +10,8 @@ Aqui você encontrará soluções que utilizei para resolver os problemas práti
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sobre o Programa
 
-ONE - Oracle Next Education é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. O curso é 100% online e totalmente gratuito, voltado para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
+ONE - Oracle Next Education é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. 
+O curso é 100% online e totalmente gratuito, voltado para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Estrutura do Curso
