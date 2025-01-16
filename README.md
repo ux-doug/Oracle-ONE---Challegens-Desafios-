@@ -1,4 +1,4 @@
-# Oracle-ONE Challegens(Desafios)
+# Oracle-ONE-Challegens
 Boas-vindas ao meu repositório de desafios do programa ONE - Oracle Next Education! + Alura
 
 Sobre o repositório:
