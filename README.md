@@ -21,7 +21,9 @@ Back-End + IA: Desenvolvimento em Java e Spring Framework, orientação a objeto
 
 Tech Advanced
 Oracle Cloud Infrastructure (OCI): Conceitos de computação em nuvem, infraestrutura como código e hospedagem de aplicações.
+
 MySQL: Instalação, configuração e manipulação de bancos de dados MySQL, incluindo criação de tabelas, relacionamentos, consultas e relatórios avançados.
+
 Inteligência Artificial: Criação de landing pages e copywriting com IA, desenvolvimento de modelos de IA automatizados, automação de tarefas em planilhas e armazenamento de arquivos.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
